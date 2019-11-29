@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="enter_weight">Enter Weight (kg):</string>
+    <string name="enter_height">Enter Height (m):</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="underW">Underwieght</string>
+    <string name="norma">Normal</string>
+    <string name="overW">Overweight</string>
+</resources>
